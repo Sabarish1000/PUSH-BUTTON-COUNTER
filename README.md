@@ -20,7 +20,6 @@ This project is a simple **push button-based counter** using an **Arduino Uno R3
 | I2C LCD 16x2        |    1     | Displays the counter value          |
 | Push Button (4-pin) |    1     | Input device to increment the count |
 | Jumper Wires        |   ~6     | For wiring                          |
-| Breadboard (optional) | 1     | Neat circuit layout (optional)      |
 
 
 ##  Circuit Connections
