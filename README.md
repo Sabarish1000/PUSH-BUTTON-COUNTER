@@ -10,7 +10,7 @@ This project is a simple **push button-based counter** using an **Arduino Uno R3
  **Display**: I2C 16x2 LCD
  **Input**: 4-pin Push Button
  **Output**: Real-time count on LCD
- **Simulation**: [Wokwi Online Simulator](https://wokwi.com)
+ **Simulation**:wokwi https://wokwi.com/projects/437828967903221761
 
 ##  Components Used
 
